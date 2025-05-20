@@ -8,11 +8,12 @@ Este sistema, desenvolvido em Python com base no paradigma de programação orie
 O sistema segue uma abordagem **orientada a objetos**, com as seguintes entidades principais:
 
 - `Usuario`: operador ou homologador que interage com o sistema
-- `Empresa`: empresa fornecedora
+- `Companhia`: empresa fornecedora
 - `DocumentoFiscal`: nota fiscal ou fatura emitida pela empresa
 - `Empenho`: valor reservado para a despesa
 - `Retencao`: valor que será deduzido de tributos
 - `Pagamento`: consolida todas as informações e processa o pagamento
+- 'AgenciaPublica': órgão público que faz negócios com as Companhias
 
 
 ## Conceitos de Orientação a Objetos Aplicados
